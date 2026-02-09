@@ -2,13 +2,12 @@
   "name": "code-to-video-backend",
   "version": "1.0.0",
   "description": "This the backend for code to video application",
-  "main": "index.js",
   "scripts": {
     "start": "node api-server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Vijay Kirla",
+  "license": "MIT",
   "dependencies": {
     "@fastify/cors": "^11.2.0",
     "@fastify/static": "^9.0.0",
