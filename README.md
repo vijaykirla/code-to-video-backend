@@ -1,4 +1,4 @@
-# Remotion Renderer Web API
+# Code to Video Renderer Web API
 
 A Fastify-based backend API that accepts TSX code and renders it to MP4 videos using Remotion. This portable renderer allows you to generate videos programmatically via a simple REST API.
 
