@@ -111,11 +111,9 @@ fastify.post("/your-endpoint", async (request, reply) => {
 
 ## License
 
-[MIT]
+MIT
 
-## Support
-
-For Documentation:
+## Documentation
 
 - Check [Remotion documentation](https://www.remotion.dev/docs)
 
